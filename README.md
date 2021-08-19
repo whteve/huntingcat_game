@@ -1,6 +1,6 @@
 # huntingcat_game
 
-Cheese
+Cheese;
 "Designed by brgfx / Freepik"
 Link: https://www.freepik.com/free-vector/slice-tasty-cheese_3077481.htm#page=1&query=cheese%20cartoon&position=25
 
